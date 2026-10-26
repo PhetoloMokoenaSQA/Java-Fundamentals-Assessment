@@ -22,13 +22,13 @@ public class Sales {
      */
     public void Initialize(){
         arPersons[0] = "Peter";
-        arSales[0] = new double[]{1500.00, 2000.00, 3000.00, 2845.00};
+        arSales[0] = new double[]{1500.00, 12000.00, 3000.00, 2845.00};
           arPersons[1] = "Thabang";
-        arSales[1] = new double[]{1000.00, 2000.00, 2000.00, 1400.00};
+        arSales[1] = new double[]{1000.00, 2000.00, 2000.00, 11400.00};
           arPersons[2] = "Jessica";
-        arSales[2] = new double[]{500.00, 2000.00, 3000.00, 800.00};
+        arSales[2] = new double[]{500.00, 2000.00, 13000.00, 800.00};
           arPersons[3] = "Lethabo";
-        arSales[3] = new double[]{1550.00, 1000.00, 4000.00, 3500.00};
+        arSales[3] = new double[]{1550.00, 1000.00, 4000.00, 13500.00};
     }
 
     /**
